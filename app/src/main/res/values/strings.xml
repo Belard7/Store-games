@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">store-games</string>
+    <string name="str_btnBuscar">Buscar juego</string>
+    <string name="str_btnRegistrar">Registrar juego</string>
+    <string name="str_btnListar">Listar juego</string>
+
+    <string name="str_titulo">Titulo</string>
+    <string name="str_descripcion">Descripcion</string>
+    <string name="str_precio">Precio</string>
+    <string name="str_desarrollador">Desarrollador</string>
+    <string name="str_genero">Genero</string>
+    <string name="str_plataforma">Plataforma</string>
+    <string name="str_aniopublicacion">Año de publicacion</string>
+    <string name="str_calificacion">Calificacion</string>
+
+    <string name="str_Bienvenido">Bienvenido</string>
+    <string name="str_imagenjuego">Juego</string>
+    <string name="str_listarJuegos">Listado de juegos</string>
+    <string name="str_gestionarJuegos">Gestionar juegos</string>
+    <string name="str_buscarJuego">Buscar juego por titulo</string>
+
+    <string name="str_guardar">Guardar</string>
+    <string name="str_actualizar">Actualizar</string>
+    <string name="str_eliminar">Eliminar</string>
+
+</resources>
